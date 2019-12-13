@@ -1,5 +1,0 @@
-# robotstxt.org/
-
-User-agent: *
-
-God knows what this file is for , it does not contain anything(develop/local)
